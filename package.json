@@ -6,7 +6,7 @@
     "name": "Ryan X Charles",
     "email": "ryan@bitpay.com"
   },
-  "repository": "git://github.com/shastafareye/mazachain.git",
+  "repository": "git://github.com/kefkius/mazachain.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -50,7 +50,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-mazacore-api"
   },
   "dependencies": {
-    "insight-mazacore-api": "git://github.com/shastafareye/insight-api.git"
+    "insight-mazacore-api": "git://github.com/kefkius/insight-api.git#experimental"
   },
   "devDependencies": {
     "bower": "~1.2.8",
