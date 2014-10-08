@@ -50,7 +50,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-mazacore-api"
   },
   "dependencies": {
-    "insight-mazacore-api": "git://github.com/shastafareye/insight-api.git"
+    "insight-mazacore-api": "git://github.com/kefkius/insight-api.git#mergeup"
   },
   "devDependencies": {
     "bower": "~1.2.8",
